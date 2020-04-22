@@ -1,7 +1,7 @@
 # covid19-comuna
 Estadisticas por comunas de cada región de Chile
 
-Por ahora se tienen resultados para la Región Metropolitana, los cuales se encuentran en el notebook `confirmados_RM.ipynb` y en la carpeta `output_RM`. El notebook crea dos animaciones .gif sobre un mapa de la región usando los datos en raw y normalizados por la poblacion de cada comuna. En el caso de la RM se tienen los siguientes animaciones:
+Por ahora se tienen resultados para la Región Metropolitana, los cuales se encuentran en el notebook `confirmados_RM.ipynb` y en la carpeta `output_RM`. El notebook crea dos animaciones .gif sobre un mapa de la región usando los datos en raw y normalizados por la poblacion de cada comuna por cada 10000 habitantes. En el caso de la RM se tienen las siguientes animaciones (clic para verlas en detalle):
 
 <img src="output_RM/mapa_contagiados.gif" width="400" height="400"><img src="output_RM/mapa_contagiados_norm.gif" width="400" height="400">
 
